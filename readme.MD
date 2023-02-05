@@ -16,7 +16,7 @@ Funcionalidades esperadas dos botões:
    
 ## Projeto
 
-- Projeto disponível no [**Link**](https://ErickPova.github.io/Stage05-Focus-Timer-2.0-Dark-Mode/)
+- Projeto disponível no [**Link**](https://erickpova.github.io/Stage05-Focus-Timer-2.0-Dark-Mode/)
 
    
 ## Tecnologias utilizadas
