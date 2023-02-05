@@ -2,7 +2,7 @@
 
  <img src="./github/preview2.png">
 
-## Focus Timer 2.0 - Stage 05 - Desafio 02
+## Focus Timer 2.0 - Stage 05 - Desafio 02
 A ideia é criar um temporizador pomodoro, com algumas funcionalidades.
 
 Funcionalidades esperadas dos botões:
