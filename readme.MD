@@ -1,4 +1,4 @@
-# Preview do projeto Focus Timer 2.0 - DarkMode
+# Preview do projeto Focus Timer 2.0 - DarkMode
 
  <img src="./github/preview2.png">
 
