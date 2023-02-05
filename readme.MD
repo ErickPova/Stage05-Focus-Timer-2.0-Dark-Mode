@@ -17,23 +17,15 @@ Funcionalidades esperadas dos botões:
  ## O que foi aprendido?
    Segue abaixo os principais conceitos práticado nesse projeto:
    
-     • Recursividade
-     
-     • Event Driven e Manipulação DOM
-     
-     • DOM
-     
-     • Função
-     
-     • Função Callback
-     
-     • Manipulação DOM
-     
-     • Display Grid
-
-     • Display Flex
-     
-     • Condicionais
+   Recursividade
+   Event Driven e Manipulação DOM
+   DOM
+   Função
+   Função Callback
+   Manipulação DOM
+   Display Grid
+   Display Flex
+   Condicionais
    
 
 ## Tecnologias utilizadas
