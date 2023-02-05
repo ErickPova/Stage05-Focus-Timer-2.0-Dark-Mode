@@ -14,20 +14,11 @@ Funcionalidades esperadas dos botões:
 - **Cards ao lado direito**: quando selecionado, muda de cor e começa a tocar o som específico, além disso o volume pode ser controlado pelo slide que está embaixo de cada ícone.
 - **Botão no canto superior direito**: É ali que você vai alternar entre o **Dark Mode** e o **Light Mode**
    
- ## O que foi aprendido?
-   Segue abaixo os principais conceitos práticado nesse projeto:
-   
-   Recursividade
-   Event Driven e Manipulação DOM
-   DOM
-   Função
-   Função Callback
-   Manipulação DOM
-   Display Grid
-   Display Flex
-   Condicionais
-   
+## Projeto
 
+- Projeto disponível no [**Link**](https://ErickPova.github.io/Stage05-Focus-Timer-2.0-Dark-Mode/)
+
+   
 ## Tecnologias utilizadas
 
 - **HTML**
