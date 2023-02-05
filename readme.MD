@@ -1,6 +1,6 @@
 # Preview do projeto Focus Timer 2.0 - DarkMode
 
- <img src="./.github/preview2.png" alt="Preview do projeto"/>
+ <img src="./github/preview2.png">
 
 ## Focus Timer 2.0 - Stage 05 - Desafio 02
 A ideia é criar um temporizador pomodoro, com algumas funcionalidades.
